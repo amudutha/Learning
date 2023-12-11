@@ -1,5 +1,5 @@
 # Learning
-Pluralsight Demo Descriptions
+Python Demo Descriptions
 
 ## This is my first Git Hub Repository Project
 
